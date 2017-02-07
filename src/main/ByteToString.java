@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 16进制字节转字符串
+ * 瀛楄妭杞瓧绗︿覆
  * @author carol
  *
  */
